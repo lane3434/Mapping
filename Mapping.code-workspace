@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Discord/WaterClientJS"
+		},
+		{
+			"path": "../../Learn/node.js"
+		}
+	],
+	"settings": {}
+}
